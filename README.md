@@ -4,6 +4,13 @@
 ## 🎯 Project Objective
 To analyze and visualize road accident data across key factors (severity, vehicle type, road type, lighting, and area type) in order to identify patterns, highlight risks, and support data-driven road safety decisions.
 
+## 📊 Dataset Overview
+
+- Number of rows : 660,680
+
+- Number of columns: 14
+
+
 ---
 
 ## 🧹 1. Data Cleaning (Power Query)
